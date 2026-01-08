@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Jupiter%20R&fontSize=42&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Jupiter%20R&fontSize=42&fontAlignY=35" />
 </p>
 
 <!-- ===================== TERMINAL TYPING ===================== -->
